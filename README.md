@@ -1,11 +1,11 @@
 # blog
 - please do all this step 
 * 1- Run `git clone 'https://github.com/Ahmed1othman/blog'
-2- Run composer install.
-3- Run cp .env.example .env or copy .env.example .env or simply copy all content to .env
-4- Run php artisan migrate
-5- Run php artisan db:seed --class=AdminSeeder
-6- Run php artisan serve.
+* 2- Run composer install.
+* 3- Run cp .env.example .env or copy .env.example .env or simply copy all content to .env
+* 4- Run php artisan migrate
+* 5- Run php artisan db:seed --class=AdminSeeder
+* 6- Run php artisan serve.
 
  - to go admin dashboard go to 127.0.0.1/admin/login
   use this for login [email = admin@admin.com & password = welcome@123]
