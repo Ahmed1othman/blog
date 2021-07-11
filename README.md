@@ -1,6 +1,6 @@
 # blog
-please do all this step 
-1- Run `git clone 'https://github.com/Ahmed1othman/blog'
+- please do all this step 
+* 1- Run `git clone 'https://github.com/Ahmed1othman/blog'
 2- Run composer install.
 3- Run cp .env.example .env or copy .env.example .env or simply copy all content to .env
 4- Run php artisan migrate
