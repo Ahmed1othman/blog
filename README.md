@@ -8,7 +8,7 @@ please do all this step
 6- Run php artisan serve.
 
  - to go admin dashboard go to 127.0.0.1/admin/login
-  use this for login [emal = admin@admin.com & password = welcome@123]
+  use this for login [email = admin@admin.com & password = welcome@123]
   
 - create category, [ can edit and delete it].
 - create post 
